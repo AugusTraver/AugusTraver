@@ -1,46 +1,65 @@
-# Hola 👋, Soy Augusto Traverso
+<div align="center">
+  <h1>¡Hola! 👋 Soy Augusto Traverso</h1>
+  <h3>Estudiante de Informática en ORT | Desarrollador Full Stack 🇦🇷</h3>
+  <p>Apasionado por la tecnología, el diseño de bases de datos relacionales y la creación de arquitecturas de software escalables.</p>
+</div>
 
-Estudiante de Informática en ORT | Desarrollador Full Stack | Apasionado por la tecnología y la creación de soluciones eficientes
+---
 
 ### 🚀 Sobre mí
 
-* 🎓 **Estudiante de Informática en ORT**: Formándome con un enfoque técnico y práctico.
-* 💻 **Desarrollador Web**: Enfocado en construir aplicaciones modernas y escalables.
-* 📚 **Mi Stack actual**: React, Node.js, C# y un sólido dominio de SQL.
-* 🧠 **Aprendiendo**: Expandiendo mis horizontes hacia **TypeScript** y **Python**.
-* ⚡ **Meta**: Crear software que resuelva problemas reales de manera sencilla.
+* 🎓 **Formación:** Estudiante de Informática en ORT, con un enfoque técnico, analítico y orientado a la resolución de problemas.
+* 💻 **Desarrollo Web:** Me especializo en construir aplicaciones robustas desde el diseño de la base de datos hasta la interfaz de usuario.
+* 🧠 **Evolución continua:** Actualmente consolidando mi stack y proyectando incorporar **TypeScript** y **Python** a mis herramientas.
+* ⚡ **Filosofía:** Desarrollar sistemas eficientes, priorizando la lógica de negocio y la optimización de recursos.
 
-### 🛠️ Tecnologías y Herramientas
+<br/>
 
-* **Frontend**: React (Hooks, Componentes), JavaScript, HTML5, CSS3.
-* **Backend**: Node.js, C#.
-* **Bases de Datos**: SQL Server, PostgreSQL.
-* **Otras herramientas**: Git, GitHub, Figma.
+### 🛠️ Mi Stack Tecnológico
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+</div>
+
+<br/>
 
 ### 📂 Proyectos Destacados
 
-#### 🅿️ SmartLot
-Sistema avanzado para la gestión de estacionamientos.
-* **Enfoque**: Administración robusta mediante un sistema de backoffice.
-* **Rol**: Liderando el desarrollo y la lógica de gestión de sitios y empresas.
-* **Estado**: En desarrollo activo.
+#### 🅿️ SmartLot | *Plataforma de Gestión de Estacionamientos*
+Desarrollo de un sistema integral para la administración de sitios y flujo de vehículos.
+* **Arquitectura:** Implementación de un sistema centralizado de **Backoffice** para la administración de empresas, optimizando la estructura de roles y permisos.
+* **Eficiencia:** Diseño de flujos de carga manual para el personal, priorizando la reducción de costos de infraestructura tecnológica y manteniendo la agilidad operativa.
 
-#### ⚛️ Proyectos Efsi
-Desarrollos realizados para la especialización técnica en ORT.
-* **Tecnologías**: React, implementación de Hooks y componentes de interfaz.
-* **Objetivo**: Aplicación de buenas prácticas en el desarrollo frontend.
+#### ⚛️ Proyectos Efsi | *Desarrollo de Interfaces*
+Desarrollos enfocados en la especialización técnica en ORT utilizando tecnologías modernas de frontend.
+* **Tecnología:** Implementación intensiva de **React Hooks** para el manejo de estado y lógica de presentación.
+* **Enfoque:** Creación de componentes reutilizables y optimización del ciclo de vida de la aplicación.
 
-### 📊 Estadísticas GitHub
+<br/>
+
+### 📊 Estadísticas de Desarrollo
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugusTraver&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugusTraver_ACA&layout=compact&langs_count=7&theme=dracula" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AugusTraver&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugusTraver&layout=compact&langs_count=6&theme=tokyonight" alt="Lenguajes más usados" />
 </div>
 
-### 📫 Contacto
+<br/>
 
-  * 💼 [LinkedIn](https://www.linkedin.com/in/augusto-amadeo-traverso-75b54530a/)
-  * 📧 [Email](mailto:augustraver@gmail.com)
+### 📫 ¿Conectamos?
 
----
-*¡Gracias por visitar mi perfil! Siempre abierto a nuevas ideas y colaboraciones.* 👨‍💻
+<div align="center">
+  <a href="https://www.linkedin.com/in/augusto-amadeo-traverso-75b54530a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:augustraver@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
